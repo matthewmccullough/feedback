@@ -19,7 +19,7 @@ I'll answer it as soon as I can get to it, but that usually takes a few days. On
 Read some questions
 ------------------------------------
 
-Check out the Closed Issues filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
+Check out the [Closed Issues](https://github.com/matthewmccullough/feedback/issues?sort=created&direction=desc&state=closed&page=1) filter on this repository to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
 
 Twitter
