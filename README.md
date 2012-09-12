@@ -1,7 +1,7 @@
 Feedback to Matthew
 =============================
 
-This is a quick little ask-me-anything type of repository.
+This is an ask-me-anything Q&A repository.
 
 I do a lot of [talks](https://speakerdeck.com/u/matthewmccullough) and posts about Git, GitHub tools, GitHub as a business, and [presenting](http://presentationpatterns.com). This is a perfect place to ask them in a way that the value of the discussion and answers are shared with the greater community.
 
