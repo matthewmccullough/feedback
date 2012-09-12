@@ -3,7 +3,7 @@ Feedback to Matthew
 
 This is a quick little ask-me-anything type of repository.
 
-I do a lot of talks and posts about How GitHub Works because I love talking and discussing how software gets built. So If you have any questions about GitHub, our culture, work practices, technical aspects, or questions about me in general, send 'em this way... I'd be happy to shed some light on the issue.
+I do a lot of [talks](https://speakerdeck.com/u/matthewmccullough) and posts about Git, GitHub tools, GitHub as a business, and [presenting](http://presentationpatterns.com). This is a perfect place to ask them in a way that the value of the discussion and answers are shared with the greater community.
 
 If you have any technical problems with Git or GitHub, you'll get the best and fastest response by [asking GitHub Support directly](https://github.com/contact). You can also drop in to the [GitHub Training](https://github.com/training) Team's next [free office hours](http://github.com/training/free) session.
 
