@@ -13,7 +13,7 @@ Ask a question
 
 Asking a question is as easy as [creating a new issue](https://github.com/matthewmccullough/feedback/issues) on this project.
 
-I'll answer it as soon as I can get to it, but that usually takes a few days. Once I answer, I'll close the issue just so I know what I've covered, but don't worry- if you have any further questions just respond in the thread and I'll get back to you soon. Feel free to ask a question on any old issue too, even if you didn't create it.
+I'll answer it as soon as I can get to it, but that usually takes a few days. Once I answer, I'll close the issue so I know what I've responded to. But, don't worry -- if you have further questions, just respond in the issue thread and I'll get back to you. Feel free to ask a question on anany old issue too, even if you didn't create it originally.
 
 
 Read some questions
